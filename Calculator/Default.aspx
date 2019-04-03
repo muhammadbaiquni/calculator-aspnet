@@ -36,6 +36,12 @@
             </Scripts>
         </asp:ScriptManager>
 
+		<style>
+			table tr td {
+				padding: 5px;
+			}
+		</style>
+
 		<div class="text-center">
 			<h3>Calculator Muhammad Baiquni</h3>
 		</div>
